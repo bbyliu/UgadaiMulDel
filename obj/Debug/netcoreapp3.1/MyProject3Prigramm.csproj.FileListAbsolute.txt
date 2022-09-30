@@ -1,0 +1,14 @@
+/Users/liuliu/Projects/MyProject3Prigramm/MyProject3Prigramm/obj/Debug/netcoreapp3.1/MyProject3Prigramm.csproj.AssemblyReference.cache
+/Users/liuliu/Projects/MyProject3Prigramm/MyProject3Prigramm/obj/Debug/netcoreapp3.1/MyProject3Prigramm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/liuliu/Projects/MyProject3Prigramm/MyProject3Prigramm/obj/Debug/netcoreapp3.1/MyProject3Prigramm.AssemblyInfoInputs.cache
+/Users/liuliu/Projects/MyProject3Prigramm/MyProject3Prigramm/obj/Debug/netcoreapp3.1/MyProject3Prigramm.AssemblyInfo.cs
+/Users/liuliu/Projects/MyProject3Prigramm/MyProject3Prigramm/obj/Debug/netcoreapp3.1/MyProject3Prigramm.csproj.CoreCompileInputs.cache
+/Users/liuliu/Projects/MyProject3Prigramm/MyProject3Prigramm/bin/Debug/netcoreapp3.1/MyProject3Prigramm
+/Users/liuliu/Projects/MyProject3Prigramm/MyProject3Prigramm/bin/Debug/netcoreapp3.1/MyProject3Prigramm.deps.json
+/Users/liuliu/Projects/MyProject3Prigramm/MyProject3Prigramm/bin/Debug/netcoreapp3.1/MyProject3Prigramm.runtimeconfig.json
+/Users/liuliu/Projects/MyProject3Prigramm/MyProject3Prigramm/bin/Debug/netcoreapp3.1/MyProject3Prigramm.runtimeconfig.dev.json
+/Users/liuliu/Projects/MyProject3Prigramm/MyProject3Prigramm/bin/Debug/netcoreapp3.1/MyProject3Prigramm.dll
+/Users/liuliu/Projects/MyProject3Prigramm/MyProject3Prigramm/bin/Debug/netcoreapp3.1/MyProject3Prigramm.pdb
+/Users/liuliu/Projects/MyProject3Prigramm/MyProject3Prigramm/obj/Debug/netcoreapp3.1/MyProject3Prigramm.dll
+/Users/liuliu/Projects/MyProject3Prigramm/MyProject3Prigramm/obj/Debug/netcoreapp3.1/MyProject3Prigramm.pdb
+/Users/liuliu/Projects/MyProject3Prigramm/MyProject3Prigramm/obj/Debug/netcoreapp3.1/MyProject3Prigramm.genruntimeconfig.cache
